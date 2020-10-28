@@ -201,7 +201,7 @@
       "url": "_framework\/DBL.Shared.dll"
     },
     {
-      "hash": "sha256-OVlVSiNVGFPkNV22o3juzE8rLpg0MPES25AwBB8kxeA=",
+      "hash": "sha256-+x1xUCS\/Wb9t66B\/d3\/5mzk4q8R+YbG6btI+t6u+Sq0=",
       "url": "_framework\/DBL.Client.dll"
     },
     {
@@ -305,7 +305,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-u+nCaXhgyl1cVsnroBXMlpb2HxnE9H19vFCEYNNpVII=",
+      "hash": "sha256-Yc44oCOFgPnFUYT3l82oWR9BmDzWKKz96wNfuMeWppE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -313,5 +313,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "Zjz1jnWn"
+  "version": "svhms+tF"
 };
